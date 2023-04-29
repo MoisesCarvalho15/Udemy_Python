@@ -8,23 +8,9 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 ## 01 - Python Básico
 
 - [Aula 01](/01_Basico/aula01/main.py) - Comando print e comentários no programa.
-  - O comando `print()` serve para imprimir dados na tela.
-  - Utilizamos o `#` para fazer comentários em linha no programa.
-    - Comentários não são imprimidos na tela.
-    - Podemos fazer comentários com mais de uma linha utilizando `'''` aspas simples.
-    - Clique no nome da aula e seja direcionado ao exemplo.
-
 - [Aula 02](01_Basico/aula02/main.py) - Tipos de dados
-  - **_Inteiros (int)_:**
-    - Números que **não contém** casas decimais e podem ser negativos.
-    - Exemplo: -12, -14, 1, 20  ...
-  - **_Float (float):_**
-    - Números que **contém** casas decimais e podem ser negativos.
-    - Exemplo: -15.18, -22.05, 1.0, 5.66 ...
-  - **_Boolean (bool):_**
-    - Valores True or False
-  - **_Strings/Textos (str):_**
-    - Textos que podem ser escritos em aspas simples ou duplas.
-
-- [Aula 03](03_Basico/aula03/main.py) - Guardando informações e usando textos formatados.
-- [Aula 04](04_Basico/aula04/main.py) - Calculando a idade com o input
+- [Aula 03](01_Basico/aula03/main.py) - Guardando informações e usando textos formatados.
+- [Aula 04](01_Basico/aula04/main.py) - Calculando a idade com o input
+- [Aula 05](01_Basico/aula05/main.py) - Entendendo o Slice
+- [Aula 06](01_Basico/aula06/main.py) - Utilizando Formatted Strings
+- [Aula 07](01_Basico/aula07/main.py) - Métodos para Strings
