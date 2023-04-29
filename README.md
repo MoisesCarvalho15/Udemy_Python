@@ -25,3 +25,6 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
     - Valores True or False
   - **_Strings/Textos (str):_**
     - Textos que podem ser escritos em aspas simples ou duplas.
+
+- [Aula 03](03_Basico/aula03/main.py) - Guardando informações e usando textos formatados.
+- [Aula 04](04_Basico/aula04/main.py) - Calculando a idade com o input
