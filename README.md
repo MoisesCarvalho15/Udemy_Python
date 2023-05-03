@@ -14,3 +14,11 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 05](01_Basico/aula05/main.py) - Entendendo o Slice
 - [Aula 06](01_Basico/aula06/main.py) - Utilizando Formatted Strings
 - [Aula 07](01_Basico/aula07/main.py) - Métodos para Strings
+
+---
+
+## 02 - Controle de Fluxo
+
+- [Aula 01](02_Controle_de_fluxo/aula01/main.py) - IF, elif and else
+- [Aula 02](02_Controle_de_fluxo/aula02/main.py) - Operadores Lógicos
+- [Aula 03](02_Controle_de_fluxo/aula03/main.py) - Operador Ternário
