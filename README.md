@@ -22,3 +22,6 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 01](02_Controle_de_fluxo/aula01/main.py) - IF, elif and else
 - [Aula 02](02_Controle_de_fluxo/aula02/main.py) - Operadores Lógicos
 - [Aula 03](02_Controle_de_fluxo/aula03/main.py) - Operador Ternário
+- [Aula 04](02_Controle_de_fluxo/aula04/main.py) - Múltiplos Operadores de Comparação
+- [Aula 05](02_Controle_de_fluxo/aula05/main.py) - For loop Utilizando Números
+- [aula 06](02_Controle_de_fluxo/aula06/main.py) - For loop - Utilizando Strings
