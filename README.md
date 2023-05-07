@@ -24,4 +24,8 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 03](02_Controle_de_fluxo/aula03/main.py) - Operador Ternário
 - [Aula 04](02_Controle_de_fluxo/aula04/main.py) - Múltiplos Operadores de Comparação
 - [Aula 05](02_Controle_de_fluxo/aula05/main.py) - For loop Utilizando Números
-- [aula 06](02_Controle_de_fluxo/aula06/main.py) - For loop - Utilizando Strings
+- [Aula 06](02_Controle_de_fluxo/aula06/main.py) - For loop - Utilizando Strings
+- [Aula 07](02_Controle_de_fluxo/aula07/main.py) - For loop - Utilizando If and Else
+- [Aula 08](02_Controle_de_fluxo/aula08/main.py) - For loop - Nested loops
+- [Aula 09](02_Controle_de_fluxo/aula09/main.py) - For loop - Separando letras de um string
+- [Aula 10](02_Controle_de_fluxo/aula10/main.py) - Criando um tabuleiro utilizando o for loop
