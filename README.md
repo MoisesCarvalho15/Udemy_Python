@@ -34,3 +34,6 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 ---
 
 ## Funções
+
+- [Aula 01](03_Funcoes/aula01/main.py) - Funções sem Parâmetros e Argumentos
+- [Aula 02](03_Funcoes/aula02/main.py) - Função com Argumentos e Parâmetros
