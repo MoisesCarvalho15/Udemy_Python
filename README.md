@@ -29,3 +29,8 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 08](02_Controle_de_fluxo/aula08/main.py) - For loop - Nested loops
 - [Aula 09](02_Controle_de_fluxo/aula09/main.py) - For loop - Separando letras de um string
 - [Aula 10](02_Controle_de_fluxo/aula10/main.py) - Criando um tabuleiro utilizando o for loop
+- [Aula 11](02_Controle_de_fluxo/aula11/main.py) - While loop
+
+---
+
+## Funções
