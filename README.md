@@ -37,3 +37,7 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 
 - [Aula 01](03_Funcoes/aula01/main.py) - Funções sem Parâmetros e Argumentos
 - [Aula 02](03_Funcoes/aula02/main.py) - Função com Argumentos e Parâmetros
+- [Aula 03](03_Funcoes/aula03/main.py) - Função com Argumentos default
+- [Aula 04](03_Funcoes/aula04/main.py) - Função com argumentos não definidos
+
+---
