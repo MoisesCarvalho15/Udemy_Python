@@ -5,7 +5,7 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 
 ---
 
-## 01 - Python Básico
+## Python Básico
 
 - [Aula 01](/01_Basico/aula01/main.py) - Comando print e comentários no programa.
 - [Aula 02](01_Basico/aula02/main.py) - Tipos de dados
@@ -17,7 +17,7 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 
 ---
 
-## 02 - Controle de Fluxo
+## Controle de Fluxo
 
 - [Aula 01](02_Controle_de_fluxo/aula01/main.py) - IF, elif and else
 - [Aula 02](02_Controle_de_fluxo/aula02/main.py) - Operadores Lógicos
@@ -41,3 +41,10 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 04](03_Funcoes/aula04/main.py) - Função com argumentos não definidos
 
 ---
+
+## Estrutura de dados
+
+- [Aula 01](04_Estrutura_de_dados/aula01/main.py) - Manipulando Listas
+- [Aula 02](04_Estrutura_de_dados/aula02/main.py) - Funções nativas dentro de listas
+- [Aula 03](04_Estrutura_de_dados/aula03/main.py) - Listas dentro de Listas
+- [Aula 04](04_Estrutura_de_dados/aula04/main.) - For loop em lista
