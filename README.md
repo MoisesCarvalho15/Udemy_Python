@@ -47,4 +47,10 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 01](04_Estrutura_de_dados/aula01/main.py) - Manipulando Listas
 - [Aula 02](04_Estrutura_de_dados/aula02/main.py) - Funções nativas dentro de listas
 - [Aula 03](04_Estrutura_de_dados/aula03/main.py) - Listas dentro de Listas
-- [Aula 04](04_Estrutura_de_dados/aula04/main.) - For loop em lista
+- [Aula 04](04_Estrutura_de_dados/aula04/main.py) - For loop em lista
+- [Aula 05](04_Estrutura_de_dados/aula05/main.py) - Verificando itens de uma lista
+- [Aula 06](04_Estrutura_de_dados/aula06/main.py) - Agregando lista com a função zip
+- [Aula 07](04_Estrutura_de_dados/aula07/main.py) - Criando listas a partir do input do usuário
+- [Aula 08](04_Estrutura_de_dados/aula08/main.py) - Utilizando Arrays
+- [Aula 09](04_Estrutura_de_dados/aula09/main.py) - Criando sets
+- [Aula 10](04_Estrutura_de_dados/aula10/main.py) - Funções dentro do set
