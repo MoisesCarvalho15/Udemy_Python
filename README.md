@@ -54,3 +54,14 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 08](04_Estrutura_de_dados/aula08/main.py) - Utilizando Arrays
 - [Aula 09](04_Estrutura_de_dados/aula09/main.py) - Criando sets
 - [Aula 10](04_Estrutura_de_dados/aula10/main.py) - Funções dentro do set
+- [Aula 11](04_Estrutura_de_dados/aula11/main.py) - Criando Dicionários
+- [Aula 12](04_Estrutura_de_dados/aula12/main.py) - Atualizando dados de um Dicionário
+- [Aula 13](04_Estrutura_de_dados/aula13/main.py) - Utilizando loops no Dicionário
+- [Aula 14](04_Estrutura_de_dados/aula14/main.py) - Função Map com Lambda
+- [Aula 15](04_Estrutura_de_dados/aula15/main.py) - Função Filter com Lambda
+- [Aula 16](04_Estrutura_de_dados/aula16/main.py) - Utilizando List Comprehension com letras
+- [Aula 17](04_Estrutura_de_dados/aula17/main.py) - Utilizando List Comprehension com números
+- [Aula 18](04_Estrutura_de_dados/aula18/main.py) - Utilizando Generator Expression
+
+---
+
