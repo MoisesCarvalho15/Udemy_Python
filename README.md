@@ -65,3 +65,10 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 
 ---
 
+## Erros
+
+- [Aula 01](05_Erros/aula01/main.py)- Utilizando Try e Except com uma lista
+- [Aula 02](05_Erros/aula02/main.py) - Utilizando Else e Finally
+
+---
+
