@@ -1,9 +1,18 @@
 # Curso Python da Udemy
 
 Neste repositório estará minhas anotações, exercícios e projetos python que estarei aprendendo no curso.
-Espero que não sirva somente para minha consulta ou registro do que estou aprendendo, mas sim, que ajude mais alguém que esteja iniciando nesta linguagem de programação.
+Espero que ajude mais alguém que esteja iniciando nesta linguagem de programação.
 
 ---
+<h2>Módulos</h2>
+
+- [Curso Python da Udemy](#curso-python-da-udemy)
+  - [Python Básico](#python-básico)
+  - [Controle de Fluxo](#controle-de-fluxo)
+  - [Funções](#funções)
+  - [Estrutura de dados](#estrutura-de-dados)
+  - [Erros](#erros)
+  - [Programação Orientada a Objetos (POO)](#programação-orientada-a-objetos-poo)
 
 ## Python Básico
 
@@ -80,3 +89,6 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 - [Aula 04](06_POO/aula04/main.py) - Adicionando mais funções na classe
 
 ---
+
+
+[def]: #python-básico
