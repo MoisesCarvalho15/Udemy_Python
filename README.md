@@ -72,3 +72,11 @@ Espero que não sirva somente para minha consulta ou registro do que estou apren
 
 ---
 
+## Programação Orientada a Objetos (POO)
+
+- [Aula 01](06_POO/aula01/main.py) - Criando minha primeira Classe
+- [Aula 02](06_POO/aula02/main.py) - Criando parâmetros separados do objeto
+- [Aula 03](06_POO/aula03/main.py) - Criando Construtores
+- [Aula 04](06_POO/aula04/main.py) - Adicionando mais funções na classe
+
+---
