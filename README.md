@@ -13,6 +13,7 @@ Espero que ajude mais alguém que esteja iniciando nesta linguagem de programaç
   - [Estrutura de dados](#estrutura-de-dados)
   - [Erros](#erros)
   - [Programação Orientada a Objetos (POO)](#programação-orientada-a-objetos-poo)
+  - [Desafios](#desafios)
 
 ## Python Básico
 
@@ -90,5 +91,9 @@ Espero que ajude mais alguém que esteja iniciando nesta linguagem de programaç
 
 ---
 
+## Desafios
 
-[def]: #python-básico
+- [Desafio 01](07_Desafios/Desafio01/main.py) - Ponto do Steak
+- [Desafio 02](07_Desafios/Desafio02/main.py) - Calculadora para Pintura
+- [Desafio 03](07_Desafios/Desafio03/main.py) - Filtrando Funcionários com 'Sets'
+- [Desafio 04](07_Desafios/Desafio04/main.py) - Calculadora de IMC
