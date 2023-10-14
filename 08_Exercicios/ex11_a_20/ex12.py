@@ -8,4 +8,4 @@ vegetais = ['Chuchu', 'Alface', 'Couve']
 for fruta in frutas:
     for vegetal in vegetais:
         print(fruta, vegetal)
-    print()
+    print() 
